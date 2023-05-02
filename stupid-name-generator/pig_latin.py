@@ -12,5 +12,3 @@ def pig_latin(string):
         string = string[0:] + 'way'
 
     return string
-
-print(pig_latin('of'))
